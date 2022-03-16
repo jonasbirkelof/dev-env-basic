@@ -5,6 +5,7 @@ This basic starter template is set up to work with TailwindCSS, SASS and Browser
 Please refer to the documentations for detailed instructions if you want to setup things differently:
 
 [TailwindCSS](https://tailwindcss.com/docs/installation)
+
 [BrowserSync](https://browsersync.io/docs)
 
 ## Clone or download
