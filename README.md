@@ -4,13 +4,16 @@ This basic starter template is set up to work with TailwindCSS, SASS and Browser
 
 Please refer to the documentations for detailed instructions if you want to setup things differently:
 
-[TailwindCSS](https://tailwindcss.com/docs/installation)
-
-[BrowserSync](https://browsersync.io/docs)
+- [TailwindCSS](https://tailwindcss.com/docs/installation)
+- [BrowserSync](https://browsersync.io/docs)
 
 ## Clone or download
 
-Clone this repo to your fresh project folder using `git clone https://github.com/jonasbirkelof/dev-env-basic.git` and follow the setup instructions below, or just download the zip-file.
+Clone this repo to your fresh project folder using: 
+````
+git clone https://github.com/jonasbirkelof/dev-env-basic.git
+````
+...and follow the setup instructions below, or just download the zip-file.
 
 ## Setup
 
