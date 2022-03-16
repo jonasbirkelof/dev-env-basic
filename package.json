@@ -1,15 +1,15 @@
 {
   "name": "my-new-project",
   "version": "1.0.0",
-  "description": "",
+  "description": "This basic starter template is setup to work with TailwindCSS, SASS and BrowserSync, as well as autoprefixer.",
   "main": "index.js",
   "scripts": {
-    "build": "mix", 
-    "watch": "mix watch", 
-    "prod": "cross-env NODE_ENV=production npm run build" 
+    "build": "mix",
+    "watch": "mix watch",
+    "prod": "cross-env NODE_ENV=production npm run build"
   },
   "keywords": [],
-  "author": "",
+  "author": "Jonas Birkelöf",
   "license": "ISC",
   "devDependencies": {
     "autoprefixer": "^10.4.4",
@@ -22,5 +22,13 @@
     "sass": "^1.49.9",
     "sass-loader": "^12.1.0",
     "tailwindcss": "^3.0.23"
-  }
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jonasbirkelof/dev-env-basic.git"
+  },
+  "bugs": {
+    "url": "https://github.com/jonasbirkelof/dev-env-basic/issues"
+  },
+  "homepage": "https://github.com/jonasbirkelof/dev-env-basic#readme"
 }
