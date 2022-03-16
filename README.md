@@ -1,6 +1,11 @@
 # Basic dev environment
 
-This basic starter template is set up to work with TailwindCSS, SASS and BrowserSync, as well as autoprefixer. Use this if you want a quick way to start a project using these tools.!
+This basic starter template is set up to work with TailwindCSS, SASS and BrowserSync, as well as autoprefixer. Use this if you want a quick way to start a project using these tools!
+
+Please refer to the documentations for detailed instructions if you want to setup things differently:
+
+[TailwindCSS](https://tailwindcss.com/docs/installation)
+[BrowserSync](https://browsersync.io/docs)
 
 ## Clone or download
 
