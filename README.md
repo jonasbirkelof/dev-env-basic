@@ -23,6 +23,6 @@ git clone https://github.com/jonasbirkelof/dev-env-basic.git
 
 3. Run `npm run build` to make an initial compile of TailwindCSS and SASS and to create the *dist/* folder.
 
-4. Run `npm run watch` to (compile again and) start BrowserSync. A new browser window or tab will open with the local server running on port 3000, or higher if you have lutiple instances of BrowserSync running.
+4. Run `npm run watch` to (compile again and) start BrowserSync. A new browser window or tab will open with the local server running on port 3000, or higher if you have multiple instances of BrowserSync running.
 
 Now you can start creating you appllication within the *src/* folder. Rememper to update *tailwind.config.js* and *webpack.mix.js* if you are adding file types or directories outside of *src/*.
