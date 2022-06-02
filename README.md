@@ -25,4 +25,4 @@ git clone https://github.com/jonasbirkelof/dev-env-basic.git
 
 4. Run `npm run watch` to (compile again and) start BrowserSync. A new browser window or tab will open with the local server running on port 3000, or higher if you have multiple instances of BrowserSync running.
 
-Now you can start creating you appllication within the *src/* folder. Rememper to update *tailwind.config.js* and *webpack.mix.js* if you are adding file types or directories outside of *src/*.
+Now you can start creating you appllication within the *src/* folder. Remember to update *tailwind.config.js* and *webpack.mix.js* if you are adding file types or directories outside of *src/*.
